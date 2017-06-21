@@ -1,0 +1,116 @@
+NDB006
+The number of symbol table entries is: 2
+The length of the symbol table is: 28
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|dec24:stage0|
+
+The number of name info structs is : 103
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	11	1	:102	"~
+#	IeEA	!	11	1	:113	#+
+$	IeEA	!	11	1	:115	#-
+%	IeEA	!	11	1	:117	#/
+&	IeEA	!	11	1	:69	"]
+'	IeEA	!	11	1	:80	"h
+(	IeEA	!	11	1	:91	"s
+)	L8ef	!	7	18	1	0	e	u
+*	"?%_n	!	6	18	1	0	s0	!	s0	t
++	"?%_n	!	6	18	1	0	s1	!	s1	s
+,	"?%_n	!	5	14	1	0	w0	!	w0	o
+-	"?%_n	!	5	14	1	0	w1	!	w1	p
+.	"?%_n	!	5	14	1	0	w2	!	w2	q
+/	"?%_n	!	5	14	1	0	w3	!	w3	r
+0	IeE[	!	8	18	x	v
+1	IGdW	.	:100	$F
+2	IGdW	.	:101	$G
+3	IGdW	.	:102	$H
+4	IGdW	.	:103	$I
+5	IGdW	.	:104	$J
+6	IGdW	.	:105	$K
+7	IGdW	.	:106	$L
+8	IGdW	.	:107	$M
+9	IGdW	.	:108	$N
+:	IGdW	.	:109	$O
+;	IGdW	.	:110	$P
+<	IGdW	.	:111	$Q
+=	IGdW	.	:112	$R
+>	IGdW	.	:113	$S
+?	IGdW	.	:114	$T
+@	IGdW	.	:115	$U
+A	IGdW	.	:116	$V
+B	IGdW	.	:117	$W
+C	IGdW	.	:118	$X
+D	IGdW	.	:119	$Y
+E	IGdW	.	:120	$Z
+F	IGdW	.	:121	$[
+G	IGdW	.	:122	$\
+H	IGdW	.	:123	$]
+I	IGdW	.	:124	$^
+J	IGdW	.	:125	$_
+K	IGdW	.	:126	$`
+L	IGdW	.	:127	$a
+M	IGdW	.	:128	$b
+N	IGdW	.	:129	$c
+O	IGdW	.	:130	$d
+P	IGdW	.	:131	$e
+Q	IGdW	.	:132	$f
+R	IGdW	.	:133	$g
+S	IGdW	.	:134	$h
+T	IGdW	.	:135	$i
+U	IGdW	.	:136	$j
+V	IGdW	.	:137	$k
+W	IGdW	.	:138	$l
+X	IGdW	.	:139	$m
+Y	IGdW	.	:140	$n
+Z	IGdW	.	:141	$o
+[	IGdW	.	:142	$p
+\	IGdW	.	:143	$q
+]	IGdW	.	:144	$r
+^	IGdW	.	:145	$s
+_	IGdW	.	:146	$t
+`	IGdW	.	:147	$u
+a	IGdW	.	:148	$v
+b	IGdW	.	:149	$w
+c	IGdW	.	:150	$x
+d	IGdW	.	:151	$y
+e	IGdW	.	:152	$z
+f	IGdW	.	:153	${
+g	IGdW	.	:154	$|
+h	IGdW	.	:155	$}
+i	IGdW	.	:156	$~
+j	IGdW	.	:157	%!
+k	IGdW	.	:158	%"
+l	IGdW	.	:159	%#
+m	IGdW	.	:160	%$
+n	IGdW	.	:161	%%
+o	IGdW	.	:162	%&
+p	IGdW	.	:163	%'
+q	IGdW	.	:164	%(
+r	IGdW	.	:77	$/
+s	IGdW	.	:78	$0
+t	IGdW	.	:79	$1
+u	IGdW	.	:80	$2
+v	IGdW	.	:81	$3
+w	IGdW	.	:82	$4
+x	IGdW	.	:83	$5
+y	IGdW	.	:84	$6
+z	IGdW	.	:85	$7
+{	IGdW	.	:86	$8
+|	IGdW	.	:87	$9
+}	IGdW	.	:88	$:
+~	IGdW	.	:89	$;
+"!	IGdW	.	:90	$<
+""	IGdW	.	:91	$=
+"#	IGdW	.	:92	$>
+"$	IGdW	.	:93	$?
+"%	IGdW	.	:94	$@
+"&	IGdW	.	:95	$A
+"'	IGdW	.	:96	$B
+"(	IGdW	.	:97	$C
+")	IGdW	.	:98	$D
+"*	IGdW	.	:99	$E

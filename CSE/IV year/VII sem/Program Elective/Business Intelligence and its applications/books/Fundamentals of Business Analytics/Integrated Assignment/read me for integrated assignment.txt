@@ -1,0 +1,18 @@
+Project Specification:
+
+Integrated Assignment Project Specification.pdf
+
+
+
+Data:
+
+Data is available in 'Integrated Assignment.accdb' (Microsoft Access Database file). This database has data for four tables: 'Trainees', 'Modules', 'Assessment', 'Score'
+ 
+Data for the 'Time' table is avialble in 'TimeData.txt' (notepad file)
+
+
+
+Solution:
+
+Integrated Assignment Solution.pdf
+

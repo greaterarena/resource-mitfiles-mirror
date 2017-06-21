@@ -1,0 +1,1 @@
+﻿select count(account_number) from account where balance > 700 and balance < 900;

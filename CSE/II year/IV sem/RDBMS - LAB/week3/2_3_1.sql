@@ -1,0 +1,1 @@
+﻿select branch_name, assets from branch

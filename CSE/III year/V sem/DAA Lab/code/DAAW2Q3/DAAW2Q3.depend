@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1407924506 source:/home/student/12538/DAAW2Q3/main.cpp
+	<iostream>
+
+1407927952 source:/home/u120905538/12538/DAAW2Q3/main.cpp
+	<iostream>
+	<math.h>
+

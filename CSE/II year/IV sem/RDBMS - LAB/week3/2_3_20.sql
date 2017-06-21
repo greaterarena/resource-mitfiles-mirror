@@ -1,0 +1,1 @@
+﻿select * from loan order by amount desc, loan_number asc;

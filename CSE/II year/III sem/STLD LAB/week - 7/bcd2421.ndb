@@ -1,0 +1,136 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 89
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|mux4_1sig:stage0|
+A	|mux4_1sig:stage1|
+T	|mux4_1sig:stage2|
+g	|mux4_1sig:stage3|
+
+The number of name info structs is : 120
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	19	9	:112	#B
+#	IeEA	!	9	1	:118	#H
+$	IeEA	!	9	1	:119	#I
+%	IeEA	!	9	1	:120	#J
+&	"?%_n	!	5	14	4	*	+	,	-	v0	!	v0	r
+'	"?%_n	!	5	14	3	+	,	-	v1	!	v1	q
+(	"?%_n	!	5	14	4	*	+	,	-	v2	!	v2	p
+)	"?%_n	!	5	14	4	*	+	,	-	v3	!	v3	o
+*	"<R?c	!	6	17	w0	!	w0	v
++	"<R?c	!	6	17	w1	!	w1	u
+,	"<R?c	!	6	17	w2	!	w2	t
+-	"<R?c	!	6	17	w3	!	w3	s
+.	IGdW	.	:10	#g
+/	IGdW	.	:11	#h
+0	IGdW	.	:12	#i
+1	IGdW	.	:13	#j
+2	IGdW	.	:14	#k
+3	IGdW	.	:15	#l
+4	IGdW	.	:16	#m
+5	IGdW	.	:17	#n
+6	IGdW	.	:18	#o
+7	IGdW	.	:19	#p
+8	IGdW	.	:20	#q
+9	IGdW	.	:21	#r
+:	IGdW	.	:22	#s
+;	IGdW	.	:23	#t
+<	IGdW	.	:24	#u
+=	IGdW	.	:25	#v
+>	IGdW	.	:26	#w
+?	IGdW	.	:27	#x
+@	IGdW	.	:28	#y
+A	IGdW	.	:29	#z
+B	IGdW	.	:30	#{
+C	IGdW	.	:31	#|
+D	IGdW	.	:32	#}
+E	IGdW	.	:33	#~
+F	IGdW	.	:34	$!
+G	IGdW	.	:8	#e
+H	IGdW	.	:9	#f
+I	IGdW	A	:10	$1
+J	IGdW	A	:11	$2
+K	IGdW	A	:12	$3
+L	IGdW	A	:13	$4
+M	IGdW	A	:14	$5
+N	IGdW	A	:15	$6
+O	IGdW	A	:16	$7
+P	IGdW	A	:17	$8
+Q	IGdW	A	:18	$9
+R	IGdW	A	:19	$:
+S	IGdW	A	:20	$;
+T	IGdW	A	:21	$<
+U	IGdW	A	:22	$=
+V	IGdW	A	:23	$>
+W	IGdW	A	:24	$?
+X	IGdW	A	:25	$@
+Y	IGdW	A	:26	$A
+Z	IGdW	A	:27	$B
+[	IGdW	A	:28	$C
+\	IGdW	A	:29	$D
+]	IGdW	A	:30	$E
+^	IGdW	A	:31	$F
+_	IGdW	A	:32	$G
+`	IGdW	A	:33	$H
+a	IGdW	A	:34	$I
+b	IGdW	A	:8	$/
+c	IGdW	A	:9	$0
+d	IGdW	T	:10	$X
+e	IGdW	T	:11	$Y
+f	IGdW	T	:12	$Z
+g	IGdW	T	:13	$[
+h	IGdW	T	:14	$\
+i	IGdW	T	:15	$]
+j	IGdW	T	:16	$^
+k	IGdW	T	:17	$_
+l	IGdW	T	:18	$`
+m	IGdW	T	:19	$a
+n	IGdW	T	:20	$b
+o	IGdW	T	:21	$c
+p	IGdW	T	:22	$d
+q	IGdW	T	:23	$e
+r	IGdW	T	:24	$f
+s	IGdW	T	:25	$g
+t	IGdW	T	:26	$h
+u	IGdW	T	:27	$i
+v	IGdW	T	:28	$j
+w	IGdW	T	:29	$k
+x	IGdW	T	:30	$l
+y	IGdW	T	:31	$m
+z	IGdW	T	:32	$n
+{	IGdW	T	:33	$o
+|	IGdW	T	:34	$p
+}	IGdW	T	:8	$V
+~	IGdW	T	:9	$W
+"!	IGdW	g	:10	%!
+""	IGdW	g	:11	%"
+"#	IGdW	g	:12	%#
+"$	IGdW	g	:13	%$
+"%	IGdW	g	:14	%%
+"&	IGdW	g	:15	%&
+"'	IGdW	g	:16	%'
+"(	IGdW	g	:17	%(
+")	IGdW	g	:18	%)
+"*	IGdW	g	:19	%*
+"+	IGdW	g	:20	%+
+",	IGdW	g	:21	%,
+"-	IGdW	g	:22	%-
+".	IGdW	g	:23	%.
+"/	IGdW	g	:24	%/
+"0	IGdW	g	:25	%0
+"1	IGdW	g	:26	%1
+"2	IGdW	g	:27	%2
+"3	IGdW	g	:28	%3
+"4	IGdW	g	:29	%4
+"5	IGdW	g	:30	%5
+"6	IGdW	g	:31	%6
+"7	IGdW	g	:32	%7
+"8	IGdW	g	:33	%8
+"9	IGdW	g	:34	%9
+":	IGdW	g	:8	$}
+";	IGdW	g	:9	$~

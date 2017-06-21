@@ -1,0 +1,107 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 61
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|tff1:stg1|
+:	|tff1:stg2|
+F	|tff1:stg3|
+R	|tff1:stg4|
+
+The number of name info structs is : 91
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	7	1	:149	#[
+#	IeEA	!	7	1	:150	#\
+$	IeEA	!	7	1	:152	#^
+%	IeEA	!	7	1	:153	#_
+&	IeEA	!	7	1	:154	#`
+'	IeEA	!	7	1	:164	#j
+(	IeEA	!	7	1	:165	#k
+)	IeEA	!	7	1	:167	#m
+*	IeEA	!	7	1	:168	#n
++	IeEA	!	7	1	:169	#o
+,	IeEA	!	7	1	:179	#y
+-	IeEA	!	7	1	:180	#z
+.	IeEA	!	7	1	:182	#|
+/	IeEA	!	7	1	:183	#}
+0	IeEA	!	7	1	:184	#~
+1	IeEA	!	7	1	:193	$)
+2	IeEA	!	7	1	:194	$*
+3	IeEA	!	7	1	:195	$+
+4	IeEA	!	7	1	:196	$,
+5	IeEA	!	7	1	:197	$-
+6	L8ef	!	4	6	1	7	cl	p
+7	"D*B)	!	5	10	2	8	7	2	q0	!	q0	u
+8	"D*B)	!	5	10	2	9	8	2	q1	!	q1	t
+9	"D*B)	!	5	10	2	:	9	2	q2	!	q2	s
+:	"D*B)	!	5	10	1	:	2	q3	!	q3	r
+;	(@\6H	!	4	6	4	:	9	8	7	reset	q
+<	L8ef	!	4	6	4	7	8	9	:	ud	o
+=	IeEA	.	9	9	:12	$X
+>	IeEA	.	13	17	:18	$^
+?	IeEA	.	15	25	:26	$f
+@	IGdW	.	:29	$i
+A	IGdW	.	:30	$j
+B	IGdW	.	:31	$k
+C	IGdW	.	:32	$l
+D	IGdW	.	:33	$m
+E	IGdW	.	:34	$n
+F	IGdW	.	:35	$o
+G	IGdW	.	:36	$p
+H	IGdW	.	:37	$q
+I	IGdW	.	:38	$r
+J	IGdW	.	:39	$s
+K	IeE1	.	5	9	:4	$Q
+L	IGdW	.	:40	$t
+M	IeEA	:	9	9	:12	%+
+N	IeEA	:	13	17	:18	%1
+O	IeEA	:	15	25	:26	%9
+P	IGdW	:	:29	%<
+Q	IGdW	:	:30	%=
+R	IGdW	:	:31	%>
+S	IGdW	:	:32	%?
+T	IGdW	:	:33	%@
+U	IGdW	:	:34	%A
+V	IGdW	:	:35	%B
+W	IGdW	:	:36	%C
+X	IGdW	:	:37	%D
+Y	IGdW	:	:38	%E
+Z	IGdW	:	:39	%F
+[	IeE1	:	5	9	:4	%$
+\	IGdW	:	:40	%G
+]	IeEA	F	9	9	:12	%[
+^	IeEA	F	13	17	:18	%a
+_	IeEA	F	15	25	:26	%i
+`	IGdW	F	:29	%l
+a	IGdW	F	:30	%m
+b	IGdW	F	:31	%n
+c	IGdW	F	:32	%o
+d	IGdW	F	:33	%p
+e	IGdW	F	:34	%q
+f	IGdW	F	:35	%r
+g	IGdW	F	:36	%s
+h	IGdW	F	:37	%t
+i	IGdW	F	:38	%u
+j	IGdW	F	:39	%v
+k	IeE1	F	5	9	:4	%T
+l	IGdW	F	:40	%w
+m	IeEA	R	9	9	:12	&-
+n	IeEA	R	13	17	:18	&3
+o	IeEA	R	15	25	:26	&;
+p	IGdW	R	:29	&>
+q	IGdW	R	:30	&?
+r	IGdW	R	:31	&@
+s	IGdW	R	:32	&A
+t	IGdW	R	:33	&B
+u	IGdW	R	:34	&C
+v	IGdW	R	:35	&D
+w	IGdW	R	:36	&E
+x	IGdW	R	:37	&F
+y	IGdW	R	:38	&G
+z	IGdW	R	:39	&H
+{	IeE1	R	5	9	:4	&&
+|	IGdW	R	:40	&I

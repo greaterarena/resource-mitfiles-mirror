@@ -1,0 +1,1 @@
+﻿Alter table marks add constraint che CHECK(sub1>=8);

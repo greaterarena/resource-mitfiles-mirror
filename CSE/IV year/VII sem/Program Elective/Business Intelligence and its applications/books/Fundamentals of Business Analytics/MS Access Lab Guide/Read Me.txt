@@ -1,0 +1,23 @@
+Dataset used in the MS Access lab guide:
+
+1. Download the Northwind database available at :
+
+http://download.cnet.com/Access-2000-Tutorial-Northwind-Traders-Sample-Database/3000-2251_4-10742880.html
+
+or
+
+http://www.microsoft.com/download/en/details.aspx?id=19704
+
+
+2. The MS Access database is by default saved by the name, "Nwind.accdb" or "Nwind.mdb".
+
+3. Open Excel and save it by the name, "Northwind_Dataset.xls". Place your cursor on cell, A1. Goto the "Data" tab on the menu bar. Select "From Access". It will ask to "select the data source". Specify the path of  "Nwind.accdb". It will then ask to "Select Table". Select the "Products" table. Select import data to "Table". Make sure you place the data in "=$A$1". The data from the "Products" table of "Nwind.accdb" will be imported successfully. Rename the sheet as "Products".
+
+4. Goto a new sheet in "Northwind_Dataset.xls". Place your cursor on cell, A1.  Goto the "Data" tab on the menu bar. Select "From Access". It will ask to "select the data source". Specify the path of  "Nwind.accdb". It will then ask to "Select Table". Select the "Orders" table. Select import data to "Table". Make sure you place the data in "=$A$1". The data from the "Orders" table of "Nwind.accdb" will be imported successfully. Rename the sheet as "Orders".
+
+5. Goto a new sheet in "Northwind_Dataset.xls". Place your cursor on cell, A1. Goto the "Data" tab on the menu bar. Select "From Other Sources". Then select "From Microsoft Query". In the "Choose Data Source" dialog box, select <New Data Source> and click on "OK". It will ask to "Create New Data Source". Type the name of the data source as "Products_by_Category". Select the driver as "Microsoft Access Driver (*.mdb, *.accdb)" and click on "Connect".  Next, select the database as "Nwind.accdb" by specifying the correct path for the Access database. Click "OK" twice. A new datasource has been created by the name "Products_by_Category". Double click on "Products_by_Category". The next step is to choose the columns. Select the column, "CategoryName" from the "Categories" table and "ProductName", "QuantityPerUnit", "UnitsInStock" and "Discontinued" from the "Products" table. Return data to Microsoft Office Excel. Import the data to "=$A$1". Rename the sheet as "Products_by_Category".
+ 
+
+The "Northwind_Dataset.xls" has three sheets, "Products", "Orders" and "Products_by_Category".
+
+

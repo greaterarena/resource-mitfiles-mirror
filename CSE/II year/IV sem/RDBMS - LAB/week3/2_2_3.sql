@@ -1,0 +1,1 @@
+﻿update student set cgpa = 9.96 where roll_no = 5

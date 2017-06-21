@@ -1,0 +1,3 @@
+Dataset used in the MS Excel lab guide:
+
+The data is available in the "Northwind_Traders data.xlsx". This .xlsx has 2 sheets: "Orders" and "Fact Orders".

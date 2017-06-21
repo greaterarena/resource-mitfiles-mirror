@@ -1,0 +1,139 @@
+﻿ALL CSE RESOURCES AVAILABLE AT --> http://resource.mitfiles.com/CSE/II%20year/III%20sem/
+
+**************************SESSIONAL - 2 SYLLABUS *********************************
+
+*********Compiled and Verified By - E.V.Subramanian And Aakarsh Singh**************
+
+************************  Computer Organisation Design ****************************
+
+4. CONTROL UNIT:
+	Introduction,  Basic concepts, Design methods 
+	(4.1 to 4.3.2 of Text Book 2 Till end of page 170) 							
+
+5. MEMORY SYSTEMS:
+	Basic concepts, RAM memories,  Read only memories, Speed size and cost,	Cache memories,
+	Performance considerations
+	(5.1 ,5.2, 5.2.1, 5.2.2, 5.2.5, 5.2.6, 5.3, 5.3.1 to 5.3.5, 5.4, 5.5, 5.5.1 to 5.5.3, 5.6, 
+	5.6.2 to 5.6.3 [INTERLEAVING IS NOT THERE] 
+	
+	Text1 - Hamacher
+	Text2 - Rafiquzzaman
+
+***************************** Data Structures ***********************************
+
+17	Linked lists representations
+18	Singly linked list. 
+19	Doubly linked list 
+20	Header node(T)
+21	Circular
+22	Applications: linked stacks and queues
+23	Polynomial and long integer arithmetic
+24	Union and intersection.(T) 
+25	Basic terminologies, binary tree representation
+26	Recursive inorder, preorder and post order tree traversal
+27	Non recursive  inorder, preorder and post order tree traversal
+28	Assignment(T)
+29	Binary search tree
+30	AVL trees.
+31	Applications: Expression trees
+32	 Inserting, deleting(T)
+33	Searching, height of BST
+
+
+REFER ALL LAB PROGRAMS
+
+********************* Switching Theory And  Logic Design ****************************
+
+21 Fast adders – Carry Lookahead Adder 
+22 Technology Considerartions
+23 Representation of numbers in VHDL code, Arithmetic assignment statements. 
+24 BCD representation(T) 
+25 Multiplexers, Synthesis of logic functions using mux’s 
+26 VHDL code for mux and circuits using mux’s 
+27 Mux synthesis using Shannon’s expansion 
+28 Decoder, Encoder, circuits using decoders(T) 
+29 VHDL code for decoders, encoders and circuits using decoders 
+30 Code converters 
+31 Arithmetic comparison circuits 
+32 VHDL code for code converter and comparators, More examples (T) 
+33 Flip-Flops 
+34 Triggering of Flip-Flop 
+35 Analysis of clocked sequential circuits(T) 
+36 State reduction and Assignment 
+37 Flip-Flop excitation tables 
+38 Design procedure 
+39 Design procedure (Contd.) 
+40 Design of counters, Examples(T) 
+41 Registers 
+42 Shift registers 
+43 FF’s and Registers in VHDL code – usage of sequential statements  MIT/GEN/F-05/RO 
+44 Ripple Counters(T)
+45 Synchronous counters 
+46 Counters in VHDL code 
+
+
+NOTE INDICES INSIDE PARENTHESES ARE NOT INCLUDED ---->>>  { NOT INCLUDED }
+
+NOTATION USED ->  example - 6.5->6.8 interprets as from 6.5 till and including 6.8
+
+STEPHEN BROWN -> 5.4, 5.7.3
+	6.1 -> 6.7 {6.2.1}
+
+MORRIS MANO   -> 6.1->6.3,6.6,6.8 {6.8 -> UPTO NON-BINARY SEQUENCE ONLY, NO CORRECTION DIAGRAMS}
+		7.1
+		7.2 -> ONLY BASIC REGISTER DIAGRAM AND EXPLANATION
+		7.3 -> ONLY BASIC SHIFT REGISTER DIAGRAM AND EXPLANATION
+		7.4 -> ONLY BINARY RIPPLE COUNTER, NO BCD COUNTER
+		7.6 -> JOHNSON AND RING COUNTER ONLY
+
+	LINK TO THE BOOK -> http://resource.mitfiles.com/CSE/II%20year/III%20sem/STLD/books/Digital%20Design%20-%20Morris%20Mano%20-%20Custom%20Split.pdf
+		
+REFER ALL LAB PROGRAMS AS WELL
+
+************************ Object Oriented Programming *********************************
+
+19	The protected access specifier, deriving by different access specifiers
+20	Different kinds of inheritance, order of invocation of constructors and destructors (T)
+21	Operator overloading : Operator overloading 
+22	Overloading the various operators – overloading the increment and decrement operators (prefix and postfix)
+23	Overloading the unary minus and unary plus operators
+24	Overloading the arithmetic operators  (T)
+25	Overloading the relational operators
+26	Overloading the assignment operator
+27	Overloading the insertion and extraction operators
+28	Overloading the new and delete operators   (T)
+29	Overloading the subscript operator, overloading the pointer-to-member operator (smart pointer)
+30	Type conversion
+31	Virtual functions and dynamic polymorphism : The need for virtual functions, virtual functions
+32	The mechanism of virtual functions
+33	Pure virtual functions
+34	Virtual destructors and Virtual constructors  (T)
+35	Templates : Introduction, function templates
+36	Class templates
+
+NOTE INDICES INSIDE PARENTHESES ARE NOT INCLUDED ---->>>  { NOT INCLUDED }
+
+NOTATION USED ->  example - 6.5 -> 6.8 interprets as from 6.5 till and including 6.8
+
+Sourav Sahay - 5.5 -> 5.8
+		ENTIRE CHAPTER 6
+		8.1 -> 8.3 {8.4}
+		10.1 -> 10.3 {10.4}
+
+REFER ALL LAB PROGRAMS AS WELL
+
+*************************** MATHS *********************************
+
+PART A 		Boolean Algebras - lemma 1, lemma 2, lemma3
+		Boolean Functions and Expressions
+		Conjunctive and Disjunctive Normal Forms
+		Group Theory
+		Subroups
+		Cyclic Groups
+
+PART B 		Partitions and ferrers graphs
+		Ordering - Lexicographic, Reverse Lexicographic, Fike's Order
+		Graph Theory - Definition Graphs, sub graphs,self complimentary graphs,
+		connected graphs, isomorphism of graphs and theorems			
+
+************************************ EOF **************************************************

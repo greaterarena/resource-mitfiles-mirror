@@ -1,0 +1,1 @@
+﻿Alter table student add constraint uni unique(name);

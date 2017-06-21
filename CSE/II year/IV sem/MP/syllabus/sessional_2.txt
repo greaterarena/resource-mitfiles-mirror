@@ -1,0 +1,25 @@
+SESSIONAL 2 MP SYLLABUS
+
+[] <- NOT INCLUDED
+
+LIU GIBSON XEROX
+
+DOUGLAS V HALL OLD EDITION (2ND)
+
+9.1 - 9.7 [FIG 9.4 AND EXAMPLES ON 9.7]
+
+8.1 - 8.12 [NO CODES] ALL INTERRUPT TYPES MUST BE KNOWN
+
+8.30 - 8.38 (8259) [FIG 8.31, FIG 8.30 ONLY OCW3 PART]
+
+8.17 - 8.29 [FIG 8.14, 8.20, 8.23]  -> REFER SLIDES FOR DIAGRAMS
+
+11.23 - 11.36  [11.29 AND CODING OF 8087 EXCEPT PYTHAGORAS THEOREM] -> PYTHAGORAS THEOREM IS IMPORTANT
+
+/************  80286 AND 80386  **********************/
+
+80286 : Page 15.11 to 15.15 (Up to and excluding 80286 new and enhanced instructions). 
+    Exclude Fig 15.10, Fig 15.11 and Fig 15.12, but need to discuss explanations connected to them.
+    We need to pick Fig 15.8 in support of explanation of virtual memory address of 80286.
+ 80386: Page 15.16 to 15.19 i.e up to "386 system connections". In this exclude Fig15.14, Fig 15.16 but need to discuss explanations connected to them.
+From Page 15.22 (from Real operating mode (exclude Fig 15.20)) to page 15.28 

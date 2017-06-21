@@ -1,0 +1,1 @@
+﻿update branch set assets = 340000000 where branch_name='Perryridge'

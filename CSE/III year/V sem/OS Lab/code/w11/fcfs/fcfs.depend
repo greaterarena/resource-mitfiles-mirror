@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415926042 source:c:\users\pikle6\desktop\labs\os\w11\fcfs\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+

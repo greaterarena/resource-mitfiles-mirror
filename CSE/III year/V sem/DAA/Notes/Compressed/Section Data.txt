@@ -1,0 +1,22 @@
+Section 1
+Brute force
+Dynamic Programming
+Transform and Conquer
+
+Section 2
+Introduction
+Fundamentals of analysis
+
+Section 3
+Space and Time Trade-Off
+
+Section 4
+Space and Time Trade-Off
+Dynamic Programming
+Transform and Conquer
+Greedy Techniques
+
+Section 5
+Divide and Conquer
+
+book - 2 1 4 5 3

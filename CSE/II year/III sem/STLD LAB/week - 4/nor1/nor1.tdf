@@ -1,0 +1,17 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+ENTITY nor1 IS
+	PORT(a, b, c, d: IN STD_LOGIC;
+		f : OUT STD_LOGIC);
+END nor1;
+
+ARCHITECTURE arch_nor1 OF nor1 IS
+	BEGIN
+	SIGNAL s1,s2,s3,s4 : STD_LOGIC;
+	s1 <= (a nor a) nor (c nor c);
+	s2 <= (b nor b) nor (c nor c);
+	s3 <= (b nor b) nor (d nor d);
+	s4 <= (((s1 nor s2) nor (s1 nor s2)) nor s3);
+	f <= s4 nor s4;
+	END arch_nor1;

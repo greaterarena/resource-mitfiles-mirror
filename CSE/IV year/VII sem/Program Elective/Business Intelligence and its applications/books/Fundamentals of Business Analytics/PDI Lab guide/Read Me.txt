@@ -1,0 +1,19 @@
+Dataset used in the PDI lab guide:
+
+1. Download the Northwind database available at :
+
+http://download.cnet.com/Access-2000-Tutorial-Northwind-Traders-Sample-Database/3000-2251_4-10742880.html
+
+or
+
+http://www.microsoft.com/download/en/details.aspx?id=19704
+
+
+2. The MS Access database is by default saved by the name, "Nwind.accdb" or "Nwind.mdb".
+
+3. Open Excel and save it by the name, "Products_Excel.xls". Place your cursor on cell, A1. Goto the "Data" tab on the menu bar. Select "From Access". It will ask to "select the data source". Specify the path of  "Nwind.accdb". It will then ask to "Select Table". Select the "Products" table. Select import data to "Table". Make sure you place the data in "=$A$1". The data from the "Products" table of "Nwind.accdb" will be imported successfully. Rename the sheet as "Products".
+
+
+4. Open the "Products_Excel.xls" file. Goto "Save as".  In the save as dialog box, select "Save as type: CSV (Comma delimited). In the file name text box, type "Products.txt"
+
+In a couple of solved assignments, the lab guide shows either the source or destination to be SQL Server 2008. This could very easily be SQL Server 2005 or Oracle or MS Access.

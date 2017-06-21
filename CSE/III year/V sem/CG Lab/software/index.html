@@ -1,0 +1,90 @@
+<html>
+	<head>
+		<title>CodeBlocks - DAA and CG</title>
+		<meta name=viewport content="width=device-width, initial-scale=1">
+		<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	</head>
+<body style="font-family: 'Roboto', sans-serif;">
+<b>Codeblocks install guide for both DAA Lab and CG Lab</b><br><br>
+<b>For WINDOWS x86 and x64 bit ONLY</b><br><br>
+
+0> <b><a href="CodeBlocks_with_OpenGL.zip">Download this</a></b> - 100MB might take upto 10 minutes || ONLY GLUT BINDING INSTALL - <a href="http://resource.mitfiles.com/CSE/III%20year/V%20sem/CG%20Lab/software/Glut_Binding_Package.zip">DOWNLOAD THIS</a><br><br>
+1> Once done extract the archive into a folder<br><br>
+2> <b>run codeblocks-13.12mingw-setup.exe</b><br><br>
+3> Then follow all the on screen instructions to complete the CodeBlocks Installation<br><br>
+4> once done <b>run glut_bindings_install.bat</b><br><br>
+5> click Yes at prompt<br><br>
+6> the file shall prompt you once completed - press enter then<br><br>
+<img src="1.jpg" width="60%"></img><br><br>
+7> Open CodeBlocks -> in the top menu goto <b>-> settings -> Compiler...</b><br><br>
+8> Go To Linker Settings and click add. Refer image below.<br><br>
+<img src="2.jpg" width="60%"></img><br><br>
+9> Click ... to browse for glut32.lib file Refer image below.<br><br>
+<img src="3.jpg" width="60%"></img><br><br>
+10> Location to glut32.lib -> <b>32bit - C:\Program Files\CodeBlocks\MinGW\lib</b><br><br>
+ Location to glut32.lib -> <b>64bit - C:\Program Files (x86)\CodeBlocks\MinGW\lib</b><br><br>
+11> Refer pictures below<br><br>
+<img src="4.jpg" width="60%"></img><br><br>
+<img src="5.jpg" width="60%"></img><br><br>
+<img src="6.jpg" width="60%"></img><br><br>
+12> <b>VERY IMPORTANT</b> - In Windows you must write this line of code - &nbsp;&nbsp;&nbsp;&nbsp;<code>#include &ltwindows.h&gt</code><br><br>
+7> Thats all open codeblocks and create a new OpenGL project or just code away your algorithms in console project mode. :D<br><br>
+--by-pikle6<br><br><br>
+
+---------SOURCE CODE FOR glut_bindings_install.bat---------<br><br><br>
+<pre>
+@echo off
+
+:: BatchGotAdmin
+:-------------------------------------
+REM  --> Check for permissions
+>nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
+
+REM --> If error flag set, we do not have admin.
+if '%errorlevel%' NEQ '0' (
+    echo Requesting administrative privileges...
+    goto UACPrompt
+) else ( goto gotAdmin )
+
+:UACPrompt
+    echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
+    echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
+
+    "%temp%\getadmin.vbs"
+    exit /B
+
+:gotAdmin
+    if exist "%temp%\getadmin.vbs" ( del "%temp%\getadmin.vbs" )
+    pushd "%CD%"
+    CD /D "%~dp0"
+:--------------------------------------
+echo GLUT BINDING INSTALLER - PIKLE6
+echo copying glut32.dll to windows system library
+xcopy "glut\glut32.dll" %SYSTEMROOT%\system /Q /Y
+
+echo -----------
+echo copying glut.lib and glut.h to proper locations
+IF NOT EXIST "%ProgramFiles(x86)%\CodeBlocks" GOTO dump
+goto dump64
+
+:dump64
+	echo dumping x64	
+	xcopy "glut\glut.h" "%ProgramFiles(x86)%\CodeBlocks\MinGW\include\GL" /Q /Y
+	xcopy "glut\glut32.lib" "%ProgramFiles(x86)%\CodeBlocks\MinGW\lib" /Q /Y
+	goto end
+	
+:dump
+	echo dumping x86
+	xcopy "glut\glut.h" "%ProgramFiles%\CodeBlocks\MinGW\include\GL" /Q /Y
+	xcopy "glut\glut32.lib" "%ProgramFiles%\CodeBlocks\MinGW\lib" /Q /Y
+	goto end
+	
+:end
+	echo -----------
+	echo GLUT Setup is now complete
+	echo you may now use codeblocks to work on OpenGL
+	echo - Section B BOT :D :D	
+	pause
+</pre>
+</body>
+</html>

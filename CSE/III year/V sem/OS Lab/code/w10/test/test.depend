@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414733356 source:/home/student/12538/w10/test/main.cpp
+	<stdlib.h>
+	<iostream>
+	<list>
+

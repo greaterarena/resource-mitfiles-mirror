@@ -1,0 +1,1 @@
+﻿update student set cgpa = (student.roll_no*3.79)%10

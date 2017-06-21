@@ -1,0 +1,107 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 95
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:100	"t
+#	IGdW	!	:101	"u
+$	IGdW	!	:102	"v
+%	IGdW	!	:103	"w
+&	IGdW	!	:104	"x
+'	IGdW	!	:105	"y
+(	IGdW	!	:106	"z
+)	IGdW	!	:107	"{
+*	IGdW	!	:108	"|
++	IGdW	!	:109	"}
+,	IGdW	!	:110	"~
+-	IGdW	!	:111	#!
+.	IGdW	!	:112	#"
+/	IGdW	!	:113	##
+0	IGdW	!	:114	#$
+1	IGdW	!	:115	#%
+2	IGdW	!	:116	#&
+3	IGdW	!	:117	#'
+4	IGdW	!	:118	#(
+5	IGdW	!	:119	#)
+6	IGdW	!	:120	#*
+7	IGdW	!	:121	#+
+8	IGdW	!	:122	#,
+9	IGdW	!	:123	#-
+:	IGdW	!	:124	#.
+;	IGdW	!	:125	#/
+<	IGdW	!	:126	#0
+=	IGdW	!	:127	#1
+>	IGdW	!	:128	#2
+?	IGdW	!	:129	#3
+@	IGdW	!	:130	#4
+A	IGdW	!	:131	#5
+B	IGdW	!	:132	#6
+C	IGdW	!	:133	#7
+D	IGdW	!	:134	#8
+E	IGdW	!	:135	#9
+F	IGdW	!	:136	#:
+G	IGdW	!	:137	#;
+H	IGdW	!	:138	#<
+I	IGdW	!	:139	#=
+J	IGdW	!	:140	#>
+K	IGdW	!	:141	#?
+L	IGdW	!	:142	#@
+M	IGdW	!	:143	#A
+N	IGdW	!	:144	#B
+O	IGdW	!	:145	#C
+P	IGdW	!	:146	#D
+Q	IGdW	!	:147	#E
+R	IGdW	!	:148	#F
+S	IGdW	!	:149	#G
+T	IGdW	!	:150	#H
+U	IGdW	!	:151	#I
+V	IGdW	!	:152	#J
+W	IGdW	!	:153	#K
+X	IGdW	!	:154	#L
+Y	IGdW	!	:155	#M
+Z	IGdW	!	:156	#N
+[	IGdW	!	:157	#O
+\	IGdW	!	:158	#P
+]	IGdW	!	:159	#Q
+^	IGdW	!	:160	#R
+_	IGdW	!	:161	#S
+`	IGdW	!	:162	#T
+a	IGdW	!	:163	#U
+b	IGdW	!	:164	#V
+c	IGdW	!	:77	"]
+d	IGdW	!	:78	"^
+e	IGdW	!	:79	"_
+f	IGdW	!	:80	"`
+g	IGdW	!	:81	"a
+h	IGdW	!	:82	"b
+i	IGdW	!	:83	"c
+j	IGdW	!	:84	"d
+k	IGdW	!	:85	"e
+l	IGdW	!	:86	"f
+m	IGdW	!	:87	"g
+n	IGdW	!	:88	"h
+o	IGdW	!	:89	"i
+p	IGdW	!	:90	"j
+q	IGdW	!	:91	"k
+r	IGdW	!	:92	"l
+s	IGdW	!	:93	"m
+t	IGdW	!	:94	"n
+u	IGdW	!	:95	"o
+v	IGdW	!	:96	"p
+w	IGdW	!	:97	"q
+x	IGdW	!	:98	"r
+y	IGdW	!	:99	"s
+z	L8ef	!	6	18	4	}	~	"!	""	e	q
+{	"?%_n	!	5	14	4	}	~	"!	""	v0	!	v0	p
+|	"?%_n	!	5	14	4	}	~	"!	""	v1	!	v1	o
+}	"<R?c	!	7	18	x0	!	x0	u
+~	"<R?c	!	7	18	x1	!	x1	t
+"!	"<R?c	!	7	18	x2	!	x2	s
+""	"<R?c	!	7	18	x3	!	x3	r

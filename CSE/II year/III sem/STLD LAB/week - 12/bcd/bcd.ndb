@@ -1,0 +1,149 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 69
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|tff1:stage1|
+<	|tff1:stage2|
+J	|tff1:stage3|
+X	|tff1:stage4|
+
+The number of name info structs is : 133
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	18	1	:117	#;
+#	IeEA	!	18	1	:119	#=
+$	IeEA	!	18	1	:121	#?
+%	IeEA	!	18	1	:122	#@
+&	IeEA	!	18	1	:125	#C
+'	IeEA	!	18	1	:127	#E
+(	IeEA	!	18	1	:128	#F
+)	IeEA	!	18	1	:130	#H
+*	IeEA	!	18	1	:131	#I
++	IeEA	!	18	1	:132	#J
+,	IeEA	!	17	9	:85	"y
+-	IeEA	!	17	9	:86	"z
+.	IeEA	!	17	31	:94	#$
+/	IeEA	!	17	31	:96	#&
+0	IeEA	!	17	31	:97	#'
+1	L8ef	!	5	6	4	2	3	4	5	clock	o
+2	"?%_o	!	6	10	4	2	3	4	5	q0	!	q0	t
+3	"D*B)	!	6	10	3	3	4	5	1	q1	!	q1	s
+4	"?%_o	!	6	10	2	4	5	q2	!	q2	r
+5	"?%_o	!	6	10	3	3	4	5	q3	!	q3	q
+6	L8ef	!	5	6	4	2	3	4	5	reset	p
+7	IeEA	.	11	1	:12	#d
+8	IeEA	.	15	9	:18	#j
+9	IeEA	.	17	17	:26	#r
+:	IGdW	.	:29	#u
+;	IGdW	.	:30	#v
+<	IGdW	.	:31	#w
+=	IGdW	.	:32	#x
+>	IGdW	.	:33	#y
+?	IGdW	.	:34	#z
+@	IGdW	.	:35	#{
+A	IGdW	.	:36	#|
+B	IGdW	.	:37	#}
+C	IGdW	.	:38	#~
+D	IGdW	.	:39	$!
+E	IeE1	.	6	10	:4	#]
+F	IGdW	.	:40	$"
+G	IGdW	.	:42	$$
+H	IGdW	.	:43	$%
+I	IGdW	.	:44	$&
+J	IGdW	.	:45	$'
+K	IGdW	.	:46	$(
+L	IGdW	.	:47	$)
+M	IGdW	.	:48	$*
+N	IGdW	.	:49	$+
+O	IGdW	.	:50	$,
+P	IGdW	.	:51	$-
+Q	IGdW	.	:52	$.
+R	IGdW	.	:53	$/
+S	IeEA	<	11	1	:12	$B
+T	IeEA	<	15	9	:18	$H
+U	IeEA	<	17	17	:26	$P
+V	IGdW	<	:29	$S
+W	IGdW	<	:30	$T
+X	IGdW	<	:31	$U
+Y	IGdW	<	:32	$V
+Z	IGdW	<	:33	$W
+[	IGdW	<	:34	$X
+\	IGdW	<	:35	$Y
+]	IGdW	<	:36	$Z
+^	IGdW	<	:37	$[
+_	IGdW	<	:38	$\
+`	IGdW	<	:39	$]
+a	IeE1	<	6	10	:4	$;
+b	IGdW	<	:40	$^
+c	IGdW	<	:42	$`
+d	IGdW	<	:43	$a
+e	IGdW	<	:44	$b
+f	IGdW	<	:45	$c
+g	IGdW	<	:46	$d
+h	IGdW	<	:47	$e
+i	IGdW	<	:48	$f
+j	IGdW	<	:49	$g
+k	IGdW	<	:50	$h
+l	IGdW	<	:51	$i
+m	IGdW	<	:52	$j
+n	IGdW	<	:53	$k
+o	IeEA	J	11	1	:12	$}
+p	IeEA	J	15	9	:18	%%
+q	IeEA	J	17	17	:26	%-
+r	IGdW	J	:29	%0
+s	IGdW	J	:30	%1
+t	IGdW	J	:31	%2
+u	IGdW	J	:32	%3
+v	IGdW	J	:33	%4
+w	IGdW	J	:34	%5
+x	IGdW	J	:35	%6
+y	IGdW	J	:36	%7
+z	IGdW	J	:37	%8
+{	IGdW	J	:38	%9
+|	IGdW	J	:39	%:
+}	IeE1	J	6	10	:4	$v
+~	IGdW	J	:40	%;
+"!	IGdW	J	:42	%=
+""	IGdW	J	:43	%>
+"#	IGdW	J	:44	%?
+"$	IGdW	J	:45	%@
+"%	IGdW	J	:46	%A
+"&	IGdW	J	:47	%B
+"'	IGdW	J	:48	%C
+"(	IGdW	J	:49	%D
+")	IGdW	J	:50	%E
+"*	IGdW	J	:51	%F
+"+	IGdW	J	:52	%G
+",	IGdW	J	:53	%H
+"-	IeEA	X	11	1	:12	%Z
+".	IeEA	X	15	9	:18	%`
+"/	IeEA	X	17	17	:26	%h
+"0	IGdW	X	:29	%k
+"1	IGdW	X	:30	%l
+"2	IGdW	X	:31	%m
+"3	IGdW	X	:32	%n
+"4	IGdW	X	:33	%o
+"5	IGdW	X	:34	%p
+"6	IGdW	X	:35	%q
+"7	IGdW	X	:36	%r
+"8	IGdW	X	:37	%s
+"9	IGdW	X	:38	%t
+":	IGdW	X	:39	%u
+";	IeE1	X	6	10	:4	%S
+"<	IGdW	X	:40	%v
+"=	IGdW	X	:42	%x
+">	IGdW	X	:43	%y
+"?	IGdW	X	:44	%z
+"@	IGdW	X	:45	%{
+"A	IGdW	X	:46	%|
+"B	IGdW	X	:47	%}
+"C	IGdW	X	:48	%~
+"D	IGdW	X	:49	&!
+"E	IGdW	X	:50	&"
+"F	IGdW	X	:51	&#
+"G	IGdW	X	:52	&$
+"H	IGdW	X	:53	&%

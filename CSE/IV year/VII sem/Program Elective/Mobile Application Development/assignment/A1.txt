@@ -1,0 +1,17 @@
+1>
+	A>	Define logical and physical landscape of mobility. Give an example for mobile native platform.
+	B>	Write down a program snippet to access string constant programmatically.
+	
+2>
+	A>	Illustrate 3 approaches to develop a mobile App along with a scenario where we need to apply these approaches.
+	B>	Write down a program snippet to declare string array resource programmatically.
+	
+3>
+	A>	Describe Android Platform Architecture with a neat diagram.
+	B>	Write down a program snippet to access string array resource programmatically.
+	
+4>
+	A>	Illustrate activity life cycle state.
+	B>	Write down a program snippet to
+		i>	access image resource programmatically.
+		ii>	access image resource non-programmatically.

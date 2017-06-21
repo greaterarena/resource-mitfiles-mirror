@@ -1,0 +1,1 @@
+﻿alter table student add cgpa numeric(3,2);

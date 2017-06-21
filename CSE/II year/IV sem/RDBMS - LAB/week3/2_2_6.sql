@@ -1,0 +1,1 @@
+﻿select name,m_sub1,m_sub2,cgpa from student natural join marks where cgpa>8

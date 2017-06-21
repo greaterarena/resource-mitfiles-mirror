@@ -1,0 +1,97 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 85
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IGdW	!	:187	#m
+#	IGdW	!	:188	#n
+$	IGdW	!	:189	#o
+%	IGdW	!	:190	#p
+&	IGdW	!	:191	#q
+'	IGdW	!	:192	#r
+(	IGdW	!	:193	#s
+)	IGdW	!	:194	#t
+*	IGdW	!	:195	#u
++	IGdW	!	:196	#v
+,	IGdW	!	:197	#w
+-	IGdW	!	:198	#x
+.	IGdW	!	:199	#y
+/	IGdW	!	:200	#z
+0	IGdW	!	:201	#{
+1	IGdW	!	:202	#|
+2	IGdW	!	:203	#}
+3	IGdW	!	:204	#~
+4	IGdW	!	:205	$!
+5	IGdW	!	:206	$"
+6	IGdW	!	:207	$#
+7	IGdW	!	:208	$$
+8	IGdW	!	:209	$%
+9	IGdW	!	:210	$&
+:	IGdW	!	:211	$'
+;	IGdW	!	:212	$(
+<	IGdW	!	:213	$)
+=	IGdW	!	:214	$*
+>	IGdW	!	:215	$+
+?	IGdW	!	:216	$,
+@	IGdW	!	:217	$-
+A	IGdW	!	:218	$.
+B	IGdW	!	:219	$/
+C	IGdW	!	:220	$0
+D	IGdW	!	:221	$1
+E	IGdW	!	:222	$2
+F	IGdW	!	:223	$3
+G	IGdW	!	:224	$4
+H	IGdW	!	:225	$5
+I	IGdW	!	:226	$6
+J	IGdW	!	:227	$7
+K	IGdW	!	:228	$8
+L	IGdW	!	:229	$9
+M	IGdW	!	:230	$:
+N	IGdW	!	:231	$;
+O	IGdW	!	:232	$<
+P	IGdW	!	:233	$=
+Q	IGdW	!	:234	$>
+R	IGdW	!	:235	$?
+S	IGdW	!	:236	$@
+T	IGdW	!	:237	$A
+U	IGdW	!	:238	$B
+V	IGdW	!	:239	$C
+W	IGdW	!	:240	$D
+X	IGdW	!	:241	$E
+Y	IGdW	!	:242	$F
+Z	IGdW	!	:243	$G
+[	IGdW	!	:244	$H
+\	IGdW	!	:245	$I
+]	IGdW	!	:246	$J
+^	IGdW	!	:247	$K
+_	IGdW	!	:248	$L
+`	IGdW	!	:249	$M
+a	IGdW	!	:250	$N
+b	IGdW	!	:251	$O
+c	IGdW	!	:252	$P
+d	IGdW	!	:253	$Q
+e	IGdW	!	:254	$R
+f	IGdW	!	:255	$S
+g	IGdW	!	:256	$T
+h	IGdW	!	:257	$U
+i	IGdW	!	:258	$V
+j	IGdW	!	:259	$W
+k	"?%_n	!	6	17	1	v	s0	!	s0	y
+l	"?%_n	!	6	17	1	v	s1	!	s1	x
+m	"?%_n	!	6	17	1	v	s2	!	s2	w
+n	"?%_n	!	5	14	1	v	w0	!	w0	o
+o	"?%_n	!	5	14	1	v	w1	!	w1	p
+p	"?%_n	!	5	14	1	v	w2	!	w2	q
+q	"?%_n	!	5	14	1	v	w3	!	w3	r
+r	"?%_n	!	5	14	1	v	w4	!	w4	s
+s	"?%_n	!	5	14	1	v	w5	!	w5	t
+t	"?%_n	!	5	14	1	v	w6	!	w6	u
+u	"?%_n	!	5	14	1	v	w7	!	w7	v
+v	Nj's	!	7	17	8	x	z

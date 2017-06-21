@@ -1,0 +1,1 @@
+﻿select count(distinct branch_name) from branch

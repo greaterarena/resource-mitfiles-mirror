@@ -1,0 +1,98 @@
+NDB006
+The number of symbol table entries is: 1
+The length of the symbol table is: 13
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+
+The number of name info structs is : 86
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	12	9	:13	{
+#	IeEA	!	12	9	:14	|
+$	IeEA	!	12	9	:15	}
+%	IeEA	!	12	9	:16	~
+&	IeEA	!	12	9	:17	"!
+'	IGdW	!	:18	""
+(	IGdW	!	:19	"#
+)	IGdW	!	:20	"$
+*	IGdW	!	:21	"%
++	IGdW	!	:22	"&
+,	IGdW	!	:23	"'
+-	IGdW	!	:24	"(
+.	IGdW	!	:25	")
+/	IGdW	!	:26	"*
+0	IGdW	!	:27	"+
+1	IGdW	!	:28	",
+2	IGdW	!	:29	"-
+3	IeEA	!	13	9	:31	"/
+4	IeEA	!	13	9	:32	"0
+5	IeEA	!	13	9	:33	"1
+6	IeEA	!	13	9	:34	"2
+7	IeEA	!	13	9	:35	"3
+8	IeEA	!	13	9	:36	"4
+9	IeEA	!	13	9	:37	"5
+:	IeEA	!	13	9	:38	"6
+;	IeEA	!	13	9	:39	"7
+<	IeEA	!	13	9	:40	"8
+=	IeEA	!	13	9	:41	"9
+>	IeEA	!	13	9	:42	":
+?	IeEA	!	13	9	:43	";
+@	IeEA	!	13	9	:44	"<
+A	IeEA	!	13	9	:45	"=
+B	IeEA	!	13	9	:46	">
+C	IeEA	!	13	9	:47	"?
+D	IGdW	!	:48	"@
+E	IGdW	!	:49	"A
+F	IGdW	!	:50	"B
+G	IGdW	!	:51	"C
+H	IGdW	!	:52	"D
+I	IGdW	!	:53	"E
+J	IGdW	!	:54	"F
+K	IGdW	!	:55	"G
+L	IGdW	!	:56	"H
+M	IGdW	!	:57	"I
+N	IGdW	!	:58	"J
+O	IGdW	!	:59	"K
+P	IeEA	!	14	9	:61	"M
+Q	IeEA	!	14	9	:62	"N
+R	IeEA	!	14	9	:63	"O
+S	IeEA	!	14	9	:64	"P
+T	IeEA	!	14	9	:65	"Q
+U	IeEA	!	14	9	:66	"R
+V	IeEA	!	14	9	:67	"S
+W	IeEA	!	14	9	:68	"T
+X	IeEA	!	14	9	:69	"U
+Y	IeEA	!	14	9	:70	"V
+Z	IeEA	!	14	9	:71	"W
+[	IeEA	!	14	9	:72	"X
+\	IeEA	!	14	9	:73	"Y
+]	IeEA	!	14	9	:74	"Z
+^	IeEA	!	14	9	:75	"[
+_	IeEA	!	14	9	:76	"\
+`	IeEA	!	14	9	:77	"]
+a	IGdW	!	:78	"^
+b	IGdW	!	:79	"_
+c	IGdW	!	:80	"`
+d	IGdW	!	:81	"a
+e	IGdW	!	:82	"b
+f	IGdW	!	:83	"c
+g	IGdW	!	:84	"d
+h	IGdW	!	:85	"e
+i	IGdW	!	:86	"f
+j	IGdW	!	:87	"g
+k	IGdW	!	:88	"h
+l	IGdW	!	:89	"i
+m	"?%_n	!	6	6	3	q	r	s	a0	!	a0	r
+n	"?%_n	!	6	6	3	q	r	s	a1	!	a1	q
+o	"?%_n	!	6	6	3	q	r	s	a2	!	a2	p
+p	"?%_n	!	6	6	3	q	r	s	a3	!	a3	o
+q	XsJE	!	7	10	3	2	1	2	aeqb	w
+r	XsJE	!	7	10	3	1	2	agtb	x
+s	XsJE	!	7	10	3	1	1	altb	y
+t	"?%_n	!	6	6	3	q	r	s	b0	!	b0	v
+u	"?%_n	!	6	6	3	q	r	s	b1	!	b1	u
+v	"?%_n	!	6	6	3	q	r	s	b2	!	b2	t
+w	"?%_n	!	6	6	3	q	r	s	b3	!	b3	s

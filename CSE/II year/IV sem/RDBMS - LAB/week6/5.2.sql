@@ -1,0 +1,1 @@
+﻿select distinct charge from billed

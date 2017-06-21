@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415930762 source:c:\users\pikle6\desktop\labs\os\w11\c-scan\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+

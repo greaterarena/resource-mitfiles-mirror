@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1415112174 source:c:\users\pikle6\desktop\labs\daa\daaw9q2\daaw9q2.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<list>
+

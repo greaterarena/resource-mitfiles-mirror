@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415927363 source:c:\users\pikle6\desktop\labs\os\w11\sstf\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+

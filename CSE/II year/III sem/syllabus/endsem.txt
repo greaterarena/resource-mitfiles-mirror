@@ -1,0 +1,246 @@
+ALL CSE RESOURCES AVAILABLE AT --> http://resource.mitfiles.com/CSE/II%20year/III%20sem/
+
+**************************END SEM SYLLABUS *********************************
+
+*********Compiled and Verified By - E.V.Subramanian And Aakarsh Singh**************
+
+************************  Computer Organisation Design ****************************
+
+1.BASIC STRUCTURE OF COMPUTERS:
+	Computer types, Functional units, Basic operational concepts, Bus structures, 
+	Software, Performance.		
+   (1.1,1.2, 1.3,1.4, 1.5,1.6 of Text Book 1)						
+
+2. MACHINE INSTRUCTIONS AND PROGRAMS:
+Numbers, arithmetic operations and characters, Memory locations and addresses,
+Memory operations, Addressing modes.
+	(2.1 to 2.5.5 of Text Book 1)								
+	
+3. EXECUTION UNIT:
+Addition and subtraction of signed numbers, Adders, ALU design, Bit slice processor,
+Multiplication of positive numbers Signed operand multiplication,  Fast multiplication, 
+Integer division,  Floating point numbers and operations
+	(3.3, 3.4, 3.5 of Text 2, 6.1 to 6.7of Text Book1)	
+        												
+4. CONTROL UNIT:
+	Introduction,  Basic concepts, Design methods 
+	(4.1 to 4.3.2 of Text Book 2) 						        		
+
+5. MEMORY SYSTEMS:
+Basic concepts, RAM memories,  Read only memories, Speed size and cost, 	
+Cache memories,  Performance considerations, Virtual memories,  Memory           
+Management Requirements,  Secondary storage
+	(5.1 ,5.2, 5.2.1, 5.2.2, 5.2.5, 5.2.6, 5.3, 5.3.1 to 5.3.5, 5.4, 5.5, 5.5.1 to 5.5.3, 5.6, 
+     5.6.2 to 5.6.3, 5.7,  5.7.1,5.9, 5.9.1 to 5.9.2 of Text Book 1)		     		
+
+6. INPUT/OUTPUT ORGANIZATION:
+Accessing I/O devices,  Interrupts,  Direct memory access,  Buses,  Interface circuits
+	(4.1, 4.2, 4.2.1 to 4.2.3 , 4.4, 4.6, 4.6.1 of Text Book 1)   	
+	[BUSES AND SERIAL PORT ARE NOT INCLUDED IN THE SYLLABUS]
+	
+	Text1 - Hamacher
+	Text2 - Rafiquzzaman
+	
+***************************** Data Structures ***********************************
+
+1	Introduction, Algorithm Specification
+2	Performance Analysis- Time and Space Complexity, Asymptotic notation.
+3	Accessing variables through pointers, pointer declaration and definition, initialization of pointer variables.
+4	Pointers and functions, pointers to pointers, Arrays and pointers, pointer arithmetic and arrays.(T)
+5	Passing an array to a function understanding complex declarations, memory allocation functions, array of pointers.
+6	The type definition, enumerated types, accessing structures, 
+7	Complex structures, arrays of structures, structures and functions.
+8	Recursive definition & processes, Recursion in C, writing recursive programs, efficiency of recursion (T)
+9	Example: Tower of Hanoi, GCD, Fibonacci
+10	Definition and examples, Representing stacks in C
+11	Evaluation of expressions
+12	Multiple stacks and queues (T)
+13	Application : infix, postfix and prefix 
+14	Application : infix, postfix and prefix  and their conversions 
+15	Application : infix, postfix and prefix  and their conversions 
+16      Queues - Linear, Circular, Priority, Deque
+17	Linked lists representations
+18	Singly linked list. 
+19	Doubly linked list 
+20	Header node(T)
+21	Circular
+22	Applications: linked stacks and queues
+23	Polynomial and long integer arithmetic
+24	Union and intersection.(T) 
+25	Basic terminologies, binary tree representation
+26	Recursive inorder, preorder and post order tree traversal
+27	Non recursive  inorder, preorder and post order tree traversal
+28	Assignment(T)
+29	Binary search tree
+30	AVL trees.
+31	Applications: Expression trees
+32	 Inserting, deleting(T)
+33	Searching, height of BST
+34	Terminology and representations, Graph operations
+35	Breadth first traversal
+36	depth first and  level order traversal(T)
+37	Spanning trees, minimum cost spanning tree
+38	Shortest path 
+39	Transitive closure
+40	Binary and linear search (T)
+41	Insertion sort
+42	Quick sort
+43	Merge sort
+44	Heap sort(T)
+45	Radix sort          
+46	Static Hashing
+47	Static Hashing(contd).
+
+HASHING - refer slides
+GRAPHS - Slides and C.L.Liu
+rest all Padma Reddy and Tanenbaum
+
+REFER ALL LAB PROGRAMS
+
+
+********************* Switching Theory And  Logic Design ****************************
+
+1   Introduction, Variables and Functions, Inversion, Truth Tables
+2   Logic Gates and Networks, Boolean Algebra
+3   Introduction to VHDL, introduction to MaxPLUS II design software, Writing simple VHDL code
+4   Examples on boolean algebra and VHDL code(T)
+5   Synthesis using AND, OR and NOT logic gates
+6   Minterms, SOP, maxterms, POS, Examples on SOP and POS
+7   Karnaugh Maps, Two-variable map, Three-variable map
+8   Four-variable map, Five-variable map, Examples(T)
+9   Strategy for Minimization - terminology
+10  Minimization procedure
+11  Minimization of Product-of-Sum forms
+12  Incompletely specified functions, Multiple output circuits(T)
+13  NAND and NOR Logic networks, Multilevel NAND and NOR circuits, Functional Decomposition
+14  Analysis of Multilevel circuits, Introduction to structural style of programming in VHDL- usage of components
+15  Positional Number Representation
+16  Addition of unsigned numbers, decomposed Full-Adder(T)
+17  Ripple-carry adder, Design example
+18  Signed numbers, negative numbers, addition and subtraction
+19  Adder and subtractor unit, Radix-complement schemes, arithmetic overflow, performance issues(T)
+20  Design of arithmetic circuits using VHDL
+21 Fast adders – Carry Lookahead Adder 
+22 Technology Considerartions
+23 Representation of numbers in VHDL code, Arithmetic assignment statements. 
+24 BCD representation(T) 
+25 Multiplexers, Synthesis of logic functions using mux’s 
+26 VHDL code for mux and circuits using mux’s 
+27 Mux synthesis using Shannon’s expansion 
+28 Decoder, Encoder, circuits using decoders(T) 
+29 VHDL code for decoders, encoders and circuits using decoders 
+30 Code converters 
+31 Arithmetic comparison circuits 
+32 VHDL code for code converter and comparators, More examples (T) 
+33 Flip-Flops 
+34 Triggering of Flip-Flop 
+35 Analysis of clocked sequential circuits(T) 
+36 State reduction and Assignment 
+37 Flip-Flop excitation tables 
+38 Design procedure 
+39 Design procedure (Contd.) 
+40 Design of counters, Examples(T) 
+41 Registers 
+42 Shift registers 
+43 FF’s and Registers in VHDL code – usage of sequential statements  MIT/GEN/F-05/RO 
+44 Ripple Counters(T)
+45 Synchronous counters 
+46 Counters in VHDL code 
+47 Overview of semiconductor diode, BJT, MOSFET, TTL-standards 
+48 High speed, low-power schotky, CMOS logic-NAND, NOR(T) 
+
+NOTE INDICES INSIDE PARENTHESES ARE NOT INCLUDED ---->>>  { NOT INCLUDED }
+
+NOTATION USED ->  example - 6.5->6.8 interprets as from 6.5 till and including 6.8
+
+STEPHEN BROWN -> 2.1-2.6,2.10 {2.5.1,2.5.2,2.5.3}
+		 4.1-4.7
+                 5.1-5.5 5.2,5.7.3 {5.3.4,5.5.1}
+		6.1 -> 6.7 {6.2.1}
+		
+LINK TO THE BOOK -> http://resource.mitfiles.com/CSE/II%20year/III%20sem/STLD/books/Fundamentals%20of%20Digital%20Logic%20Stephen%20Brown%20&%20Zvonko%20Vranesic.pdf
+				 
+MORRIS MANO   -> ENTIRE CH - 6 [Mealy and Moore Models only definition]
+		CH - 7 {registers with parallel load, sequential implementation of logic}
+			{Binary counter with parallel Load, Fig 7-19}
+			
+LINK TO THE BOOK -> http://resource.mitfiles.com/CSE/II%20year/III%20sem/STLD/books/Digital%20Design%20-%20Morris%20Mano%20-%20Custom%20Split.pdf
+
+LEACH,MALVINO,SAHA - refer - MEDIUM QUALITY(2mb) - http://resource.mitfiles.com/CSE/II%20year/III%20sem/STLD/books/leach-malvino-saha-custom-split-medium.pdf
+			    HIGH QUALITY  (21mb)- http://resource.mitfiles.com/CSE/II%20year/III%20sem/STLD/books/leach-malvino-saha-custom-split-high.pdf
+
+REFER ALL LAB PROGRAMS AS WELL
+
+************************ Object Oriented Programming *********************************
+
+1	Introduction to C++: A review of structures, Procedure-oriented programming systems
+2	Object oriented programming systems, Comparison of C++ with C, Console Input / Output in C++
+3	Variables in C++, Reference variables in C++, Function prototyping
+4	Function overloading, default values for formal arguments of functions, Inline functions   (T)
+5	Classes and objects : Introduction to classes 
+6	Introduction to objects
+7	Member functions and member data 
+8	Objects and functions  (T)
+9	Objects and arrays
+10	Namespaces, Nested classes
+11	Dynamic memory management : Introduction, Dynamic memory allocation
+12	Dynamic memory deallocation, The set_new_handler() function (T)
+13	Constructors and Destructors : Constructors 
+14	Destructors
+15	The philosophy of OOPS
+16	INHERITANCE : Introduction to Inheritance (T)
+17	Base class and derived class pointers
+18	Function Overriding, Base class Initialization
+19	The protected access specifier, deriving by different access specifiers
+20	Different kinds of inheritance, order of invocation of constructors and destructors (T)
+21	Operator overloading : Operator overloading 
+22	Overloading the various operators – overloading the increment and decrement operators (prefix and postfix)
+23	Overloading the unary minus and unary plus operators
+24	Overloading the arithmetic operators  (T)
+25	Overloading the relational operators
+26	Overloading the assignment operator
+27	Overloading the insertion and extraction operators
+28	Overloading the new and delete operators   (T)
+29	Overloading the subscript operator, overloading the pointer-to-member operator (smart pointer)
+30	Type conversion
+31	Virtual functions and dynamic polymorphism : The need for virtual functions, virtual functions
+32	The mechanism of virtual functions
+33	Pure virtual functions
+34	Virtual destructors and Virtual constructors  (T)
+35	Templates : Introduction, function templates
+36	Class templates
+37	the standard template library (STL)
+38	Exception handling : Introduction
+39	C-Style handling of error-generating codes
+40 	C++ Style solution- the try/throw/catch construct
+41	try/throw/catch Examples  (T)
+42	Limitations of exception handling
+43	Stream Handling : Streams, the class hierarchy of handling streams
+44	Text and Binary input/ output, Text versus Binary files
+45	Text  input/ output   (T)
+46	Binary input/ output
+47	Opening and closing files, files as ojects of the fstream class, File pointer, Random access to files
+48	Object  input/ output through member functions, Error handling, manipulators (T)
+
+only refer the above mentioned topics in Sourav Sahay
+
+REFER ALL LAB PROGRAMS AS WELL
+
+*************************** MATHS *********************************
+
+[DETAILED SYLLABUS IS BEING COMPILED WILL BE UPDATED SOON]
+
+PART A 		Lattice Theory
+		Boolean Algebras
+		Boolean Functions and Expressions
+		Conjunctive and Disjunctive Normal Forms
+		Group Theory
+		Predicate Calculus
+PART B 		Permutaions and Combinations
+		Partitions and ferrers graphs
+		Ordering - Lexicographic, Reverse Lexicographic, Fike's Order
+		Graph Theory - Definition Graphs, sub graphs,self complimentary graphs,
+		connected graphs, isomorphism of graphs and theorems	
+		Propositional Calculus
+
+************************************ EOF **************************************************

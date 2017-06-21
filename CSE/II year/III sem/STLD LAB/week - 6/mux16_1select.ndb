@@ -1,0 +1,173 @@
+NDB006
+The number of symbol table entries is: 6
+The length of the symbol table is: 123
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|mux4_1select:stage0|
+D	|mux4_1select:stage1|
+Z	|mux4_1select:stage2|
+p	|mux4_1select:stage3|
+"(	|mux4_1select:stage5|
+
+The number of name info structs is : 156
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	"?%_n	!	6	17	1	6	s0	!	s0	"$
+#	"?%_n	!	6	17	1	6	s1	!	s1	"#
+$	"?%_n	!	6	17	1	6	s2	!	s2	""
+%	"?%_n	!	6	17	1	6	s3	!	s3	"!
+&	"?%_n	!	5	14	1	6	w0	!	w0	o
+'	"?%_n	!	5	14	1	6	w1	!	w1	p
+(	"?%_n	!	5	14	1	6	w10	!	w10	y
+)	"?%_n	!	5	14	1	6	w11	!	w11	z
+*	"?%_n	!	5	14	1	6	w12	!	w12	{
++	"?%_n	!	5	14	1	6	w13	!	w13	|
+,	"?%_n	!	5	14	1	6	w14	!	w14	}
+-	"?%_n	!	5	14	1	6	w15	!	w15	~
+.	"?%_n	!	5	14	1	6	w2	!	w2	q
+/	"?%_n	!	5	14	1	6	w3	!	w3	r
+0	"?%_n	!	5	14	1	6	w4	!	w4	s
+1	"?%_n	!	5	14	1	6	w5	!	w5	t
+2	"?%_n	!	5	14	1	6	w6	!	w6	u
+3	"?%_n	!	5	14	1	6	w7	!	w7	v
+4	"?%_n	!	5	14	1	6	w8	!	w8	w
+5	"?%_n	!	5	14	1	6	w9	!	w9	x
+6	Nj's	!	7	17	16	x	"%
+7	IGdW	.	:16	$?
+8	IGdW	.	:17	$@
+9	IGdW	.	:18	$A
+:	IGdW	.	:19	$B
+;	IGdW	.	:20	$C
+<	IGdW	.	:21	$D
+=	IGdW	.	:22	$E
+>	IGdW	.	:23	$F
+?	IGdW	.	:24	$G
+@	IGdW	.	:25	$H
+A	IGdW	.	:26	$I
+B	IGdW	.	:27	$J
+C	IGdW	.	:28	$K
+D	IGdW	.	:29	$L
+E	IGdW	.	:30	$M
+F	IGdW	.	:31	$N
+G	IGdW	.	:32	$O
+H	IGdW	.	:33	$P
+I	IGdW	.	:34	$Q
+J	IGdW	.	:35	$R
+K	IGdW	.	:36	$S
+L	IGdW	.	:37	$T
+M	IGdW	.	:38	$U
+N	IGdW	.	:39	$V
+O	IGdW	.	:40	$W
+P	IGdW	.	:41	$X
+Q	IGdW	.	:42	$Y
+R	IGdW	D	:16	$p
+S	IGdW	D	:17	$q
+T	IGdW	D	:18	$r
+U	IGdW	D	:19	$s
+V	IGdW	D	:20	$t
+W	IGdW	D	:21	$u
+X	IGdW	D	:22	$v
+Y	IGdW	D	:23	$w
+Z	IGdW	D	:24	$x
+[	IGdW	D	:25	$y
+\	IGdW	D	:26	$z
+]	IGdW	D	:27	${
+^	IGdW	D	:28	$|
+_	IGdW	D	:29	$}
+`	IGdW	D	:30	$~
+a	IGdW	D	:31	%!
+b	IGdW	D	:32	%"
+c	IGdW	D	:33	%#
+d	IGdW	D	:34	%$
+e	IGdW	D	:35	%%
+f	IGdW	D	:36	%&
+g	IGdW	D	:37	%'
+h	IGdW	D	:38	%(
+i	IGdW	D	:39	%)
+j	IGdW	D	:40	%*
+k	IGdW	D	:41	%+
+l	IGdW	D	:42	%,
+m	IGdW	Z	:16	%B
+n	IGdW	Z	:17	%C
+o	IGdW	Z	:18	%D
+p	IGdW	Z	:19	%E
+q	IGdW	Z	:20	%F
+r	IGdW	Z	:21	%G
+s	IGdW	Z	:22	%H
+t	IGdW	Z	:23	%I
+u	IGdW	Z	:24	%J
+v	IGdW	Z	:25	%K
+w	IGdW	Z	:26	%L
+x	IGdW	Z	:27	%M
+y	IGdW	Z	:28	%N
+z	IGdW	Z	:29	%O
+{	IGdW	Z	:30	%P
+|	IGdW	Z	:31	%Q
+}	IGdW	Z	:32	%R
+~	IGdW	Z	:33	%S
+"!	IGdW	Z	:34	%T
+""	IGdW	Z	:35	%U
+"#	IGdW	Z	:36	%V
+"$	IGdW	Z	:37	%W
+"%	IGdW	Z	:38	%X
+"&	IGdW	Z	:39	%Y
+"'	IGdW	Z	:40	%Z
+"(	IGdW	Z	:41	%[
+")	IGdW	Z	:42	%\
+"*	IGdW	p	:16	%r
+"+	IGdW	p	:17	%s
+",	IGdW	p	:18	%t
+"-	IGdW	p	:19	%u
+".	IGdW	p	:20	%v
+"/	IGdW	p	:21	%w
+"0	IGdW	p	:22	%x
+"1	IGdW	p	:23	%y
+"2	IGdW	p	:24	%z
+"3	IGdW	p	:25	%{
+"4	IGdW	p	:26	%|
+"5	IGdW	p	:27	%}
+"6	IGdW	p	:28	%~
+"7	IGdW	p	:29	&!
+"8	IGdW	p	:30	&"
+"9	IGdW	p	:31	&#
+":	IGdW	p	:32	&$
+";	IGdW	p	:33	&%
+"<	IGdW	p	:34	&&
+"=	IGdW	p	:35	&'
+">	IGdW	p	:36	&(
+"?	IGdW	p	:37	&)
+"@	IGdW	p	:38	&*
+"A	IGdW	p	:39	&+
+"B	IGdW	p	:40	&,
+"C	IGdW	p	:41	&-
+"D	IGdW	p	:42	&.
+"E	IGdW	"(	:16	&D
+"F	IGdW	"(	:17	&E
+"G	IGdW	"(	:18	&F
+"H	IGdW	"(	:19	&G
+"I	IGdW	"(	:20	&H
+"J	IGdW	"(	:21	&I
+"K	IGdW	"(	:22	&J
+"L	IGdW	"(	:23	&K
+"M	IGdW	"(	:24	&L
+"N	IGdW	"(	:25	&M
+"O	IGdW	"(	:26	&N
+"P	IGdW	"(	:27	&O
+"Q	IGdW	"(	:28	&P
+"R	IGdW	"(	:29	&Q
+"S	IGdW	"(	:30	&R
+"T	IGdW	"(	:31	&S
+"U	IGdW	"(	:32	&T
+"V	IGdW	"(	:33	&U
+"W	IGdW	"(	:34	&V
+"X	IGdW	"(	:35	&W
+"Y	IGdW	"(	:36	&X
+"Z	IGdW	"(	:37	&Y
+"[	IGdW	"(	:38	&Z
+"\	IGdW	"(	:39	&[
+"]	IGdW	"(	:40	&\
+"^	IGdW	"(	:41	&]
+"_	IGdW	"(	:42	&^

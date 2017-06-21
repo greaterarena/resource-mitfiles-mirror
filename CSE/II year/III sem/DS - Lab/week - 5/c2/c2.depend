@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1379349016 source:d:\study\mit\ii year\cse\iii sem\ds - lab\week - 5\c2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

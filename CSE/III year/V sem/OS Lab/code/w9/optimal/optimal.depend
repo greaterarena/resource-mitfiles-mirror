@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414724318 source:/home/student/12538/w9/optimal/main.cpp
+	<iostream>
+	<list>
+	<vector>
+

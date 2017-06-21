@@ -1,0 +1,106 @@
+﻿ALL CSE RESOURCES AVAILABLE AT --> http://resource.mitfiles.com/CSE/II%20year/III%20sem/
+
+**************************SESSIONAL - 1 SYLLABUS *********************************
+
+*********Compiled and Verified By - E.V.Subramanian And Aakarsh Singh**************
+
+************************  Computer Organisation Design ****************************
+
+1.BASIC STRUCTURE OF COMPUTERS:
+	Computer types, Functional units, Basic operational concepts, Bus structures, 
+	Software, Performance.		
+(1.1,1.2, 1.3,1.4, 1.5,1.6 of Text Book 1)						
+
+2. MACHINE INSTRUCTIONS AND PROGRAMS:
+Numbers, arithmetic operations and characters, Memory locations and addresses, Memory operations, Addressing modes.
+	(2.1 to 2.5.5 of Text Book 1)								
+	
+3. EXECUTION UNIT:
+Addition and subtraction of signed numbers, Adders, ALU design, Bit slice processor,  Multiplication of positive numbers Signed operand multiplication,  Fast multiplication, Integer division,  Floating point numbers and operations
+	(3.3, 3.4, 3.5 of Text 2, 6.1 to 6.7of Text Book1)	
+	
+	Text1 - Hamacher
+	Text2 - Rafiquzzaman
+
+***************************** Data Structures ***********************************
+
+1	Introduction, Algorithm Specification
+2	Performance Analysis- Time and Space Complexity, Asymptotic notation.
+3	Accessing variables through pointers, pointer declaration and definition, initialization of pointer variables.
+4	Pointers and functions, pointers to pointers, Arrays and pointers, pointer arithmetic and arrays.(T)
+5	Passing an array to a function understanding complex declarations, memory allocation functions, array of pointers.
+6	The type definition, enumerated types, accessing structures, 
+7	Complex structures, arrays of structures, structures and functions.
+8	Recursive definition & processes, Recursion in C, writing recursive programs, efficiency of recursion (T)
+9	Example: Tower of Hanoi, GCD, Fibonacci
+10	Definition and examples, Representing stacks in C
+11	Evaluation of expressions
+12	Multiple stacks and queues (T)
+13	Application : infix, postfix and prefix 
+14	Application : infix, postfix and prefix  and their conversions 
+15	Application : infix, postfix and prefix  and their conversions 
+16  	Queues - Linear, Circular, Priority, Deque
+
+REFER ALL LAB PROGRAMS TOO TILL QUEUE
+
+********************* Switching Theory And  Logic Design ****************************
+
+1   Introduction, Variables and Functions, Inversion, Truth Tables
+2   Logic Gates and Networks, Boolean Algebra
+3   Introduction to VHDL, introduction to MaxPLUS II design software, Writing simple VHDL code
+4   Examples on boolean algebra and VHDL code(T)
+5   Synthesis using AND, OR and NOT logic gates
+6   Minterms, SOP, maxterms, POS, Examples on SOP and POS
+7   Karnaugh Maps, Two-variable map, Three-variable map
+8   Four-variable map, Five-variable map, Examples(T)
+9   Strategy for Minimization - terminology
+10  Minimization procedure
+11  Minimization of Product-of-Sum forms
+12  Incompletely specified functions, Multiple output circuits(T)
+13  NAND and NOR Logic networks, Multilevel NAND and NOR circuits, Functional Decomposition
+14  Analysis of Multilevel circuits, Introduction to structural style of programming in VHDL- usage of components
+15  Positional Number Representation
+16  Addition of unsigned numbers, decomposed Full-Adder(T)
+17  Ripple-carry adder, Design example
+18  Signed numbers, negative numbers, addition and subtraction
+19  Adder and subtractor unit, Radix-complement schemes, arithmetic overflow, performance issues(T)
+20  Design of arithmetic circuits using VHDL
+
+NOTE INDICES INSIDE PARENTHESES ARE NOT INCLUDED ---->>>  { NOT INCLUDED }
+
+STEPHEN BROWN -> 2.1-2.6,2.10 {2.5.1,2.5.2,2.5.3}
+		 4.1-4.7
+                 5.1-5.3,5.5.2,5.7.3 {5.3.4}
+
+REFER ALL LAB PROGRAMS AS WELL
+
+************************ Object Oriented Programming *********************************
+
+1	Introduction to C++: A review of structures, Procedure-oriented programming systems
+2	Object oriented programming systems, Comparison of C++ with C, Console Input / Output in C++
+3	Variables in C++, Reference variables in C++, Function prototyping
+4	Function overloading, default values for formal arguments of functions, Inline functions   (T)
+5	Classes and objects : Introduction to classes 
+6	Introduction to objects
+7	Member functions and member data 
+8	Objects and functions  (T)
+9	Objects and arrays
+10	Namespaces, Nested classes
+11	Dynamic memory management : Introduction, Dynamic memory allocation
+12	Dynamic memory deallocation, The set_new_handler() function (T)
+13	Constructors and Destructors : Constructors 
+14	Destructors
+15	The philosophy of OOPS
+16	INHERITANCE : Introduction to Inheritance (T)
+17	Base class and derived class pointers
+18	Function Overriding
+
+REFER ALL LAB PROGRAMS AS WELL
+
+*************************** MATHS *********************************
+
+PART A Till (including) Binary Algebra (basic definitions only) And Binary Lattices
+
+PART B Till (not including) partitions
+
+************************************ EOF **************************************************

@@ -1,0 +1,1 @@
+﻿alter table customer add phoneNo numeric(10);

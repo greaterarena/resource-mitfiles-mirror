@@ -1,0 +1,160 @@
+NDB006
+The number of symbol table entries is: 5
+The length of the symbol table is: 49
+
+Index Hierarchy Path
+----- --------------
+!	&null_hpath&
+.	|tf2:s1|
+7	|tf2:s2|
+@	|tf2:s3|
+I	|tf2:s4|
+
+The number of name info structs is : 144
+
+InsOrder BitField SymTableIndex NextSyn SynParent Loc ChainType NextChain ChainParent FanOut DirExp ParExp ShareExp NodeName
+-------- -------- ------------- ------- --------- --- --------- --------- ----------- ------ ------ ------ -------- --------
+"	IeEA	!	9	1	:83	"s
+#	IeEA	!	9	1	:85	"u
+$	IeEA	!	9	1	:87	"w
+%	L8ef	!	5	6	8	&	'	(	)	D	f	"*	"L	clock	o
+&	"?%_o	!	6	10	4	'	(	)	D	q0	!	q0	s
+'	"?%_o	!	6	10	3	(	)	f	q1	!	q1	r
+(	"?%_o	!	6	10	2	)	"*	q2	!	q2	q
+)	"?%_o	!	6	10	1	"L	q3	!	q3	p
+*	IeEA	.	16	9	:17	#8
++	IGdW	.	:24	#?
+,	IGdW	.	:25	#@
+-	IGdW	.	:26	#A
+.	IGdW	.	:27	#B
+/	IGdW	.	:28	#C
+0	IGdW	.	:29	#D
+1	IeE1	.	6	10	:3	#+
+2	IGdW	.	:30	#E
+3	IGdW	.	:31	#F
+4	IGdW	.	:32	#G
+5	IGdW	.	:33	#H
+6	IGdW	.	:34	#I
+7	IGdW	.	:35	#J
+8	IGdW	.	:38	#M
+9	IGdW	.	:39	#N
+:	IGdW	.	:40	#O
+;	IGdW	.	:41	#P
+<	IGdW	.	:42	#Q
+=	IGdW	.	:43	#R
+>	IGdW	.	:44	#S
+?	IGdW	.	:45	#T
+@	IGdW	.	:46	#U
+A	IGdW	.	:47	#V
+B	IGdW	.	:48	#W
+C	IGdW	.	:49	#X
+D	LGPw	.	K	10	1	1	&	:5	#,
+E	IGdW	.	:50	#Y
+F	IGdW	.	:51	#Z
+G	IGdW	.	:52	#[
+H	IGdW	.	:53	#\
+I	IGdW	.	:54	#]
+J	IGdW	.	:55	#^
+K	INvO	.	D	temp	#,
+L	IeEA	7	16	9	:17	#w
+M	IGdW	7	:24	#~
+N	IGdW	7	:25	$!
+O	IGdW	7	:26	$"
+P	IGdW	7	:27	$#
+Q	IGdW	7	:28	$$
+R	IGdW	7	:29	$%
+S	IeE1	7	6	10	:3	#j
+T	IGdW	7	:30	$&
+U	IGdW	7	:31	$'
+V	IGdW	7	:32	$(
+W	IGdW	7	:33	$)
+X	IGdW	7	:34	$*
+Y	IGdW	7	:35	$+
+Z	IGdW	7	:38	$.
+[	IGdW	7	:39	$/
+\	IGdW	7	:40	$0
+]	IGdW	7	:41	$1
+^	IGdW	7	:42	$2
+_	IGdW	7	:43	$3
+`	IGdW	7	:44	$4
+a	IGdW	7	:45	$5
+b	IGdW	7	:46	$6
+c	IGdW	7	:47	$7
+d	IGdW	7	:48	$8
+e	IGdW	7	:49	$9
+f	LGPw	7	m	10	1	1	'	:5	#k
+g	IGdW	7	:50	$:
+h	IGdW	7	:51	$;
+i	IGdW	7	:52	$<
+j	IGdW	7	:53	$=
+k	IGdW	7	:54	$>
+l	IGdW	7	:55	$?
+m	INvO	7	f	temp	#k
+n	IeEA	@	16	9	:17	$W
+o	IGdW	@	:24	$^
+p	IGdW	@	:25	$_
+q	IGdW	@	:26	$`
+r	IGdW	@	:27	$a
+s	IGdW	@	:28	$b
+t	IGdW	@	:29	$c
+u	IeE1	@	6	10	:3	$J
+v	IGdW	@	:30	$d
+w	IGdW	@	:31	$e
+x	IGdW	@	:32	$f
+y	IGdW	@	:33	$g
+z	IGdW	@	:34	$h
+{	IGdW	@	:35	$i
+|	IGdW	@	:38	$l
+}	IGdW	@	:39	$m
+~	IGdW	@	:40	$n
+"!	IGdW	@	:41	$o
+""	IGdW	@	:42	$p
+"#	IGdW	@	:43	$q
+"$	IGdW	@	:44	$r
+"%	IGdW	@	:45	$s
+"&	IGdW	@	:46	$t
+"'	IGdW	@	:47	$u
+"(	IGdW	@	:48	$v
+")	IGdW	@	:49	$w
+"*	LGPw	@	"1	10	1	1	(	:5	$K
+"+	IGdW	@	:50	$x
+",	IGdW	@	:51	$y
+"-	IGdW	@	:52	$z
+".	IGdW	@	:53	${
+"/	IGdW	@	:54	$|
+"0	IGdW	@	:55	$}
+"1	INvO	@	"*	temp	$K
+"2	IeEA	I	16	9	:17	%7
+"3	IGdW	I	:24	%>
+"4	IGdW	I	:25	%?
+"5	IGdW	I	:26	%@
+"6	IGdW	I	:27	%A
+"7	IGdW	I	:28	%B
+"8	IGdW	I	:29	%C
+"9	IeE1	I	6	10	:3	%*
+":	IGdW	I	:30	%D
+";	IGdW	I	:31	%E
+"<	IGdW	I	:32	%F
+"=	IGdW	I	:33	%G
+">	IGdW	I	:34	%H
+"?	IGdW	I	:35	%I
+"@	IGdW	I	:38	%L
+"A	IGdW	I	:39	%M
+"B	IGdW	I	:40	%N
+"C	IGdW	I	:41	%O
+"D	IGdW	I	:42	%P
+"E	IGdW	I	:43	%Q
+"F	IGdW	I	:44	%R
+"G	IGdW	I	:45	%S
+"H	IGdW	I	:46	%T
+"I	IGdW	I	:47	%U
+"J	IGdW	I	:48	%V
+"K	IGdW	I	:49	%W
+"L	LGPw	I	"S	10	1	1	)	:5	%+
+"M	IGdW	I	:50	%X
+"N	IGdW	I	:51	%Y
+"O	IGdW	I	:52	%Z
+"P	IGdW	I	:53	%[
+"Q	IGdW	I	:54	%\
+"R	IGdW	I	:55	%]
+"S	INvO	I	"L	temp	%+
